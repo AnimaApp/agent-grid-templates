@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HTML site</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="index.html">HTML site</a>
+      <nav class="nav">
+        <a href="#features">Features</a>
+        <a href="#contact">Contact</a>
+        <a href="about.html">About</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero">
+        <h1>Start building here.</h1>
+        <p>A static HTML, CSS and JavaScript site with no build step. Edit index.html to make it yours.</p>
+        <a class="button button--primary" href="#contact">Get in touch</a>
+      </section>
+
+      <section id="features" class="features">
+        <article class="card">
+          <h2>Pages</h2>
+          <p>Every .html file is a page. Link between them with plain anchors, like the About link above.</p>
+        </article>
+        <article class="card">
+          <h2>Styles</h2>
+          <p>All styles live in styles.css. The variables at the top set colors, radius and fonts.</p>
+        </article>
+        <article class="card">
+          <h2>Scripts</h2>
+          <p>script.js runs on every page. Add behavior there with plain JavaScript.</p>
+        </article>
+      </section>
+
+      <section id="contact" class="contact">
+        <h2>Contact</h2>
+        <form class="form" data-contact-form>
+          <label>
+            Email
+            <input type="email" name="email" placeholder="you@example.com" required />
+          </label>
+          <button class="button button--primary" type="submit">Send</button>
+          <p class="form-status" data-form-status hidden></p>
+        </form>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>&copy; <span data-year></span> HTML site. Made with Agent Grid.</p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>

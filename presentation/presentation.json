@@ -1,0 +1,127 @@
+{
+  "generator": {
+    "name": "@animaapp/presentation-compiler",
+    "version": "0.1.0"
+  },
+  "layouts": [
+    {
+      "file": "layouts/ag-l.closing.html",
+      "id": "ag-l.closing",
+      "name": "Closing",
+      "theme": "ag-theme"
+    },
+    {
+      "file": "layouts/ag-l.content.html",
+      "id": "ag-l.content",
+      "name": "Title and content",
+      "theme": "ag-theme"
+    },
+    {
+      "file": "layouts/ag-l.full-image.html",
+      "id": "ag-l.full-image",
+      "name": "Full image",
+      "theme": "ag-theme"
+    },
+    {
+      "file": "layouts/ag-l.image-text.html",
+      "id": "ag-l.image-text",
+      "name": "Image and text",
+      "theme": "ag-theme"
+    },
+    {
+      "file": "layouts/ag-l.section.html",
+      "id": "ag-l.section",
+      "name": "Section header",
+      "theme": "ag-theme"
+    },
+    {
+      "file": "layouts/ag-l.title.html",
+      "id": "ag-l.title",
+      "name": "Title",
+      "theme": "ag-theme"
+    }
+  ],
+  "size": {
+    "h": 540,
+    "unit": "pt",
+    "w": 960
+  },
+  "slides": [
+    {
+      "file": "slides/ag-title.html",
+      "hidden": false,
+      "id": "ag-title",
+      "layout": "ag-l.title",
+      "notes": "Open with the one sentence you want the audience to remember.",
+      "title": "Presentation title"
+    },
+    {
+      "file": "slides/ag-agenda.html",
+      "hidden": false,
+      "id": "ag-agenda",
+      "layout": "ag-l.content",
+      "title": "Agenda"
+    },
+    {
+      "file": "slides/ag-section.html",
+      "hidden": false,
+      "id": "ag-section",
+      "layout": "ag-l.section",
+      "title": "Section title"
+    },
+    {
+      "file": "slides/ag-image-text.html",
+      "hidden": false,
+      "id": "ag-image-text",
+      "layout": "ag-l.image-text",
+      "title": "An idea with a picture"
+    },
+    {
+      "file": "slides/ag-numbers.html",
+      "hidden": false,
+      "id": "ag-numbers",
+      "layout": "ag-l.content",
+      "title": "42%"
+    },
+    {
+      "file": "slides/ag-statement.html",
+      "hidden": false,
+      "id": "ag-statement",
+      "layout": "ag-l.full-image",
+      "title": "“A single bold statement, set large over an image.”"
+    },
+    {
+      "file": "slides/ag-closing.html",
+      "hidden": false,
+      "id": "ag-closing",
+      "layout": "ag-l.closing",
+      "title": "Thank you"
+    }
+  ],
+  "source": {
+    "bytes": 55231,
+    "format": "ir",
+    "name": "deck.presentation-ir.json",
+    "sha256": "190f2ad2751f7b1fe5d1315a8d0acce60fa253e0b3eede64d7d6b6b06ddcd360"
+  },
+  "themes": {
+    "ag-theme": {
+      "colors": {
+        "accent1": "#4f46e5",
+        "accent2": "#a855f7",
+        "accent3": "#f97316",
+        "accent4": "#0f766e",
+        "accent5": "#facc15",
+        "accent6": "#64748b",
+        "dk1": "#1c1c1a",
+        "dk2": "#1e1b4b",
+        "folHlink": "#7c3aed",
+        "hlink": "#4f46e5",
+        "lt1": "#ffffff",
+        "lt2": "#f4f4f0"
+      },
+      "name": "Agent Grid"
+    }
+  },
+  "title": "deck"
+}
