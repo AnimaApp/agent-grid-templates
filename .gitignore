@@ -1,0 +1,5 @@
+node_modules/
+dist/
+# Written by scripts/presentation/deck.mjs from presentation-source/images/.
+presentation-source/media/
+.DS_Store

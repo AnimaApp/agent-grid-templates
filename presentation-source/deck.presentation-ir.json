@@ -1,0 +1,2293 @@
+{
+  "$schema": "https://schemas.animaapp.com/presentation-ir.schema.json",
+  "phase": "source",
+  "defaults": {
+    "body": {
+      "anchor": "top",
+      "autofit": {
+        "kind": "none"
+      },
+      "insets": {
+        "b": 3.6,
+        "l": 7.2,
+        "r": 7.2,
+        "t": 3.6
+      },
+      "overflow": "spread",
+      "wrap": "square"
+    },
+    "text": {
+      "0": {
+        "para": {
+          "align": "left",
+          "bullet": {
+            "kind": "none"
+          },
+          "indent": 0,
+          "lineSpacing": {
+            "basis": "size-1.2",
+            "kind": "multiple",
+            "value": 1
+          },
+          "marginLeft": 0,
+          "marginRight": 0,
+          "rtl": false,
+          "spaceAfter": {
+            "kind": "pt",
+            "value": 0
+          },
+          "spaceBefore": {
+            "kind": "pt",
+            "value": 0
+          },
+          "tabSize": 72
+        },
+        "run": {
+          "baseline": 0,
+          "caps": "none",
+          "color": {
+            "kind": "theme",
+            "mods": [],
+            "slot": "tx1"
+          },
+          "font": {
+            "kind": "theme",
+            "slot": "minor"
+          },
+          "highlight": null,
+          "italic": false,
+          "letterSpacing": 0,
+          "link": null,
+          "scriptScale": 1,
+          "size": 18,
+          "strike": "none",
+          "synthesizeBold": true,
+          "underline": "none",
+          "weight": 400
+        }
+      },
+      "1": {
+        "para": {
+          "align": "left",
+          "bullet": {
+            "kind": "none"
+          },
+          "indent": 0,
+          "lineSpacing": {
+            "basis": "size-1.2",
+            "kind": "multiple",
+            "value": 1
+          },
+          "marginLeft": 0,
+          "marginRight": 0,
+          "rtl": false,
+          "spaceAfter": {
+            "kind": "pt",
+            "value": 0
+          },
+          "spaceBefore": {
+            "kind": "pt",
+            "value": 0
+          },
+          "tabSize": 72
+        },
+        "run": {
+          "baseline": 0,
+          "caps": "none",
+          "color": {
+            "kind": "theme",
+            "mods": [],
+            "slot": "tx1"
+          },
+          "font": {
+            "kind": "theme",
+            "slot": "minor"
+          },
+          "highlight": null,
+          "italic": false,
+          "letterSpacing": 0,
+          "link": null,
+          "scriptScale": 1,
+          "size": 18,
+          "strike": "none",
+          "synthesizeBold": true,
+          "underline": "none",
+          "weight": 400
+        }
+      },
+      "2": {
+        "para": {
+          "align": "left",
+          "bullet": {
+            "kind": "none"
+          },
+          "indent": 0,
+          "lineSpacing": {
+            "basis": "size-1.2",
+            "kind": "multiple",
+            "value": 1
+          },
+          "marginLeft": 0,
+          "marginRight": 0,
+          "rtl": false,
+          "spaceAfter": {
+            "kind": "pt",
+            "value": 0
+          },
+          "spaceBefore": {
+            "kind": "pt",
+            "value": 0
+          },
+          "tabSize": 72
+        },
+        "run": {
+          "baseline": 0,
+          "caps": "none",
+          "color": {
+            "kind": "theme",
+            "mods": [],
+            "slot": "tx1"
+          },
+          "font": {
+            "kind": "theme",
+            "slot": "minor"
+          },
+          "highlight": null,
+          "italic": false,
+          "letterSpacing": 0,
+          "link": null,
+          "scriptScale": 1,
+          "size": 18,
+          "strike": "none",
+          "synthesizeBold": true,
+          "underline": "none",
+          "weight": 400
+        }
+      },
+      "3": {
+        "para": {
+          "align": "left",
+          "bullet": {
+            "kind": "none"
+          },
+          "indent": 0,
+          "lineSpacing": {
+            "basis": "size-1.2",
+            "kind": "multiple",
+            "value": 1
+          },
+          "marginLeft": 0,
+          "marginRight": 0,
+          "rtl": false,
+          "spaceAfter": {
+            "kind": "pt",
+            "value": 0
+          },
+          "spaceBefore": {
+            "kind": "pt",
+            "value": 0
+          },
+          "tabSize": 72
+        },
+        "run": {
+          "baseline": 0,
+          "caps": "none",
+          "color": {
+            "kind": "theme",
+            "mods": [],
+            "slot": "tx1"
+          },
+          "font": {
+            "kind": "theme",
+            "slot": "minor"
+          },
+          "highlight": null,
+          "italic": false,
+          "letterSpacing": 0,
+          "link": null,
+          "scriptScale": 1,
+          "size": 18,
+          "strike": "none",
+          "synthesizeBold": true,
+          "underline": "none",
+          "weight": 400
+        }
+      },
+      "4": {
+        "para": {
+          "align": "left",
+          "bullet": {
+            "kind": "none"
+          },
+          "indent": 0,
+          "lineSpacing": {
+            "basis": "size-1.2",
+            "kind": "multiple",
+            "value": 1
+          },
+          "marginLeft": 0,
+          "marginRight": 0,
+          "rtl": false,
+          "spaceAfter": {
+            "kind": "pt",
+            "value": 0
+          },
+          "spaceBefore": {
+            "kind": "pt",
+            "value": 0
+          },
+          "tabSize": 72
+        },
+        "run": {
+          "baseline": 0,
+          "caps": "none",
+          "color": {
+            "kind": "theme",
+            "mods": [],
+            "slot": "tx1"
+          },
+          "font": {
+            "kind": "theme",
+            "slot": "minor"
+          },
+          "highlight": null,
+          "italic": false,
+          "letterSpacing": 0,
+          "link": null,
+          "scriptScale": 1,
+          "size": 18,
+          "strike": "none",
+          "synthesizeBold": true,
+          "underline": "none",
+          "weight": 400
+        }
+      },
+      "5": {
+        "para": {
+          "align": "left",
+          "bullet": {
+            "kind": "none"
+          },
+          "indent": 0,
+          "lineSpacing": {
+            "basis": "size-1.2",
+            "kind": "multiple",
+            "value": 1
+          },
+          "marginLeft": 0,
+          "marginRight": 0,
+          "rtl": false,
+          "spaceAfter": {
+            "kind": "pt",
+            "value": 0
+          },
+          "spaceBefore": {
+            "kind": "pt",
+            "value": 0
+          },
+          "tabSize": 72
+        },
+        "run": {
+          "baseline": 0,
+          "caps": "none",
+          "color": {
+            "kind": "theme",
+            "mods": [],
+            "slot": "tx1"
+          },
+          "font": {
+            "kind": "theme",
+            "slot": "minor"
+          },
+          "highlight": null,
+          "italic": false,
+          "letterSpacing": 0,
+          "link": null,
+          "scriptScale": 1,
+          "size": 18,
+          "strike": "none",
+          "synthesizeBold": true,
+          "underline": "none",
+          "weight": 400
+        }
+      },
+      "6": {
+        "para": {
+          "align": "left",
+          "bullet": {
+            "kind": "none"
+          },
+          "indent": 0,
+          "lineSpacing": {
+            "basis": "size-1.2",
+            "kind": "multiple",
+            "value": 1
+          },
+          "marginLeft": 0,
+          "marginRight": 0,
+          "rtl": false,
+          "spaceAfter": {
+            "kind": "pt",
+            "value": 0
+          },
+          "spaceBefore": {
+            "kind": "pt",
+            "value": 0
+          },
+          "tabSize": 72
+        },
+        "run": {
+          "baseline": 0,
+          "caps": "none",
+          "color": {
+            "kind": "theme",
+            "mods": [],
+            "slot": "tx1"
+          },
+          "font": {
+            "kind": "theme",
+            "slot": "minor"
+          },
+          "highlight": null,
+          "italic": false,
+          "letterSpacing": 0,
+          "link": null,
+          "scriptScale": 1,
+          "size": 18,
+          "strike": "none",
+          "synthesizeBold": true,
+          "underline": "none",
+          "weight": 400
+        }
+      },
+      "7": {
+        "para": {
+          "align": "left",
+          "bullet": {
+            "kind": "none"
+          },
+          "indent": 0,
+          "lineSpacing": {
+            "basis": "size-1.2",
+            "kind": "multiple",
+            "value": 1
+          },
+          "marginLeft": 0,
+          "marginRight": 0,
+          "rtl": false,
+          "spaceAfter": {
+            "kind": "pt",
+            "value": 0
+          },
+          "spaceBefore": {
+            "kind": "pt",
+            "value": 0
+          },
+          "tabSize": 72
+        },
+        "run": {
+          "baseline": 0,
+          "caps": "none",
+          "color": {
+            "kind": "theme",
+            "mods": [],
+            "slot": "tx1"
+          },
+          "font": {
+            "kind": "theme",
+            "slot": "minor"
+          },
+          "highlight": null,
+          "italic": false,
+          "letterSpacing": 0,
+          "link": null,
+          "scriptScale": 1,
+          "size": 18,
+          "strike": "none",
+          "synthesizeBold": true,
+          "underline": "none",
+          "weight": 400
+        }
+      },
+      "8": {
+        "para": {
+          "align": "left",
+          "bullet": {
+            "kind": "none"
+          },
+          "indent": 0,
+          "lineSpacing": {
+            "basis": "size-1.2",
+            "kind": "multiple",
+            "value": 1
+          },
+          "marginLeft": 0,
+          "marginRight": 0,
+          "rtl": false,
+          "spaceAfter": {
+            "kind": "pt",
+            "value": 0
+          },
+          "spaceBefore": {
+            "kind": "pt",
+            "value": 0
+          },
+          "tabSize": 72
+        },
+        "run": {
+          "baseline": 0,
+          "caps": "none",
+          "color": {
+            "kind": "theme",
+            "mods": [],
+            "slot": "tx1"
+          },
+          "font": {
+            "kind": "theme",
+            "slot": "minor"
+          },
+          "highlight": null,
+          "italic": false,
+          "letterSpacing": 0,
+          "link": null,
+          "scriptScale": 1,
+          "size": 18,
+          "strike": "none",
+          "synthesizeBold": true,
+          "underline": "none",
+          "weight": 400
+        }
+      }
+    }
+  },
+  "fonts": {},
+  "size": {
+    "w": 960,
+    "h": 540
+  },
+  "themes": {
+    "ag-theme": {
+      "id": "ag-theme",
+      "name": "Agent Grid",
+      "origin": {
+        "kind": "agent"
+      },
+      "colors": {
+        "dk1": {
+          "kind": "rgb",
+          "space": "srgb",
+          "r": 0.1098,
+          "g": 0.1098,
+          "b": 0.10196,
+          "a": 1
+        },
+        "lt1": {
+          "kind": "rgb",
+          "space": "srgb",
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        },
+        "dk2": {
+          "kind": "rgb",
+          "space": "srgb",
+          "r": 0.11765,
+          "g": 0.10588,
+          "b": 0.29412,
+          "a": 1
+        },
+        "lt2": {
+          "kind": "rgb",
+          "space": "srgb",
+          "r": 0.95686,
+          "g": 0.95686,
+          "b": 0.94118,
+          "a": 1
+        },
+        "accent1": {
+          "kind": "rgb",
+          "space": "srgb",
+          "r": 0.3098,
+          "g": 0.27451,
+          "b": 0.89804,
+          "a": 1
+        },
+        "accent2": {
+          "kind": "rgb",
+          "space": "srgb",
+          "r": 0.65882,
+          "g": 0.33333,
+          "b": 0.96863,
+          "a": 1
+        },
+        "accent3": {
+          "kind": "rgb",
+          "space": "srgb",
+          "r": 0.97647,
+          "g": 0.45098,
+          "b": 0.08627,
+          "a": 1
+        },
+        "accent4": {
+          "kind": "rgb",
+          "space": "srgb",
+          "r": 0.05882,
+          "g": 0.46275,
+          "b": 0.43137,
+          "a": 1
+        },
+        "accent5": {
+          "kind": "rgb",
+          "space": "srgb",
+          "r": 0.98039,
+          "g": 0.8,
+          "b": 0.08235,
+          "a": 1
+        },
+        "accent6": {
+          "kind": "rgb",
+          "space": "srgb",
+          "r": 0.39216,
+          "g": 0.4549,
+          "b": 0.5451,
+          "a": 1
+        },
+        "hlink": {
+          "kind": "rgb",
+          "space": "srgb",
+          "r": 0.3098,
+          "g": 0.27451,
+          "b": 0.89804,
+          "a": 1
+        },
+        "folHlink": {
+          "kind": "rgb",
+          "space": "srgb",
+          "r": 0.48627,
+          "g": 0.22745,
+          "b": 0.92941,
+          "a": 1
+        }
+      },
+      "fonts": {
+        "major": {
+          "latin": "Arial"
+        },
+        "minor": {
+          "latin": "Arial"
+        }
+      }
+    }
+  },
+  "masters": {
+    "ag-master": {
+      "id": "ag-master",
+      "origin": {
+        "kind": "agent"
+      },
+      "theme": "ag-theme",
+      "colorMap": {
+        "bg1": "lt1",
+        "tx1": "dk1",
+        "bg2": "lt2",
+        "tx2": "dk2",
+        "accent1": "accent1",
+        "accent2": "accent2",
+        "accent3": "accent3",
+        "accent4": "accent4",
+        "accent5": "accent5",
+        "accent6": "accent6",
+        "hlink": "hlink",
+        "folHlink": "folHlink",
+        "dk1": "dk1",
+        "lt1": "lt1",
+        "dk2": "dk2",
+        "lt2": "lt2"
+      },
+      "background": {
+        "kind": "solid",
+        "color": {
+          "kind": "theme",
+          "slot": "bg1",
+          "mods": []
+        }
+      },
+      "elements": []
+    }
+  },
+  "layouts": {
+    "ag-l.title": {
+      "id": "ag-l.title",
+      "name": "Title",
+      "origin": {
+        "kind": "agent"
+      },
+      "master": "ag-master",
+      "showMaster": true,
+      "elements": []
+    },
+    "ag-l.content": {
+      "id": "ag-l.content",
+      "name": "Title and content",
+      "origin": {
+        "kind": "agent"
+      },
+      "master": "ag-master",
+      "showMaster": true,
+      "elements": [
+        {
+          "kind": "shape",
+          "id": "ag-l.content.rule",
+          "origin": {
+            "kind": "agent"
+          },
+          "frame": {
+            "x": 64,
+            "y": 56,
+            "w": 48,
+            "h": 6,
+            "rotation": 0,
+            "flipH": false,
+            "flipV": false
+          },
+          "geometry": {
+            "kind": "preset",
+            "name": "rect",
+            "adjust": {}
+          },
+          "fill": {
+            "kind": "solid",
+            "color": {
+              "kind": "theme",
+              "slot": "accent1",
+              "mods": []
+            }
+          }
+        }
+      ]
+    },
+    "ag-l.section": {
+      "id": "ag-l.section",
+      "name": "Section header",
+      "origin": {
+        "kind": "agent"
+      },
+      "master": "ag-master",
+      "showMaster": true,
+      "elements": [],
+      "background": {
+        "kind": "solid",
+        "color": {
+          "kind": "theme",
+          "slot": "tx2",
+          "mods": []
+        }
+      }
+    },
+    "ag-l.image-text": {
+      "id": "ag-l.image-text",
+      "name": "Image and text",
+      "origin": {
+        "kind": "agent"
+      },
+      "master": "ag-master",
+      "showMaster": true,
+      "elements": []
+    },
+    "ag-l.full-image": {
+      "id": "ag-l.full-image",
+      "name": "Full image",
+      "origin": {
+        "kind": "agent"
+      },
+      "master": "ag-master",
+      "showMaster": true,
+      "elements": []
+    },
+    "ag-l.closing": {
+      "id": "ag-l.closing",
+      "name": "Closing",
+      "origin": {
+        "kind": "agent"
+      },
+      "master": "ag-master",
+      "showMaster": true,
+      "elements": [],
+      "background": {
+        "kind": "solid",
+        "color": {
+          "kind": "theme",
+          "slot": "tx2",
+          "mods": []
+        }
+      }
+    }
+  },
+  "slides": [
+    {
+      "id": "ag-title",
+      "origin": {
+        "kind": "agent"
+      },
+      "layout": "ag-l.title",
+      "hidden": false,
+      "showLayout": true,
+      "timeline": [],
+      "elements": [
+        {
+          "kind": "picture",
+          "id": "ag-title.image",
+          "origin": {
+            "kind": "agent"
+          },
+          "frame": {
+            "x": 0,
+            "y": 0,
+            "w": 960,
+            "h": 540,
+            "rotation": 0,
+            "flipH": false,
+            "flipV": false
+          },
+          "media": "0704e9d5996a9e798e234f2aa239ff7d61b25171f7aaf9cb4b2855bed49e263b",
+          "alt": "Abstract indigo and violet gradient",
+          "crop": {
+            "l": 0,
+            "r": 0,
+            "t": 0,
+            "b": 0
+          }
+        },
+        {
+          "kind": "shape",
+          "id": "ag-title.heading",
+          "origin": {
+            "kind": "agent"
+          },
+          "frame": {
+            "x": 64,
+            "y": 190,
+            "w": 640,
+            "h": 140,
+            "rotation": 0,
+            "flipH": false,
+            "flipV": false
+          },
+          "geometry": {
+            "kind": "preset",
+            "name": "rect",
+            "adjust": {}
+          },
+          "fill": {
+            "kind": "none"
+          },
+          "text": {
+            "body": {
+              "anchor": "bottom",
+              "autofit": {
+                "kind": "none"
+              },
+              "wrap": "square",
+              "insets": {
+                "l": 0,
+                "r": 0,
+                "t": 0,
+                "b": 0
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "props": {},
+                "inlines": [
+                  {
+                    "kind": "run",
+                    "text": "Presentation title",
+                    "props": {
+                      "size": 54,
+                      "color": {
+                        "kind": "theme",
+                        "slot": "bg1",
+                        "mods": []
+                      },
+                      "weight": 700
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "kind": "shape",
+          "id": "ag-title.subtitle",
+          "origin": {
+            "kind": "agent"
+          },
+          "frame": {
+            "x": 64,
+            "y": 342,
+            "w": 640,
+            "h": 60,
+            "rotation": 0,
+            "flipH": false,
+            "flipV": false
+          },
+          "geometry": {
+            "kind": "preset",
+            "name": "rect",
+            "adjust": {}
+          },
+          "fill": {
+            "kind": "none"
+          },
+          "text": {
+            "body": {
+              "anchor": "top",
+              "autofit": {
+                "kind": "none"
+              },
+              "wrap": "square",
+              "insets": {
+                "l": 0,
+                "r": 0,
+                "t": 0,
+                "b": 0
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "props": {
+                  "spaceAfter": {
+                    "kind": "pt",
+                    "value": 10
+                  }
+                },
+                "inlines": [
+                  {
+                    "kind": "run",
+                    "text": "A subtitle that frames the story",
+                    "props": {
+                      "size": 22,
+                      "color": {
+                        "kind": "theme",
+                        "slot": "bg1",
+                        "mods": []
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "notes": {
+        "body": {
+          "anchor": "top",
+          "autofit": {
+            "kind": "none"
+          },
+          "wrap": "square",
+          "insets": {
+            "l": 0,
+            "r": 0,
+            "t": 0,
+            "b": 0
+          }
+        },
+        "paragraphs": [
+          {
+            "level": 0,
+            "props": {},
+            "inlines": [
+              {
+                "kind": "run",
+                "text": "Open with the one sentence you want the audience to remember.",
+                "props": {}
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "ag-agenda",
+      "origin": {
+        "kind": "agent"
+      },
+      "layout": "ag-l.content",
+      "hidden": false,
+      "showLayout": true,
+      "timeline": [],
+      "elements": [
+        {
+          "kind": "shape",
+          "id": "ag-agenda.heading",
+          "origin": {
+            "kind": "agent"
+          },
+          "frame": {
+            "x": 64,
+            "y": 80,
+            "w": 832,
+            "h": 60,
+            "rotation": 0,
+            "flipH": false,
+            "flipV": false
+          },
+          "geometry": {
+            "kind": "preset",
+            "name": "rect",
+            "adjust": {}
+          },
+          "fill": {
+            "kind": "none"
+          },
+          "text": {
+            "body": {
+              "anchor": "top",
+              "autofit": {
+                "kind": "none"
+              },
+              "wrap": "square",
+              "insets": {
+                "l": 0,
+                "r": 0,
+                "t": 0,
+                "b": 0
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "props": {},
+                "inlines": [
+                  {
+                    "kind": "run",
+                    "text": "Agenda",
+                    "props": {
+                      "size": 36,
+                      "color": {
+                        "kind": "theme",
+                        "slot": "tx1",
+                        "mods": []
+                      },
+                      "weight": 700
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "kind": "shape",
+          "id": "ag-agenda.list",
+          "origin": {
+            "kind": "agent"
+          },
+          "frame": {
+            "x": 64,
+            "y": 160,
+            "w": 832,
+            "h": 320,
+            "rotation": 0,
+            "flipH": false,
+            "flipV": false
+          },
+          "geometry": {
+            "kind": "preset",
+            "name": "rect",
+            "adjust": {}
+          },
+          "fill": {
+            "kind": "none"
+          },
+          "text": {
+            "body": {
+              "anchor": "top",
+              "autofit": {
+                "kind": "none"
+              },
+              "wrap": "square",
+              "insets": {
+                "l": 0,
+                "r": 0,
+                "t": 0,
+                "b": 0
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "props": {
+                  "bullet": {
+                    "kind": "char",
+                    "char": "•",
+                    "color": {
+                      "kind": "theme",
+                      "slot": "accent1",
+                      "mods": []
+                    }
+                  },
+                  "marginLeft": 24,
+                  "indent": -24,
+                  "spaceAfter": {
+                    "kind": "pt",
+                    "value": 12
+                  }
+                },
+                "inlines": [
+                  {
+                    "kind": "run",
+                    "text": "Where we are today",
+                    "props": {
+                      "size": 20,
+                      "color": {
+                        "kind": "theme",
+                        "slot": "tx1",
+                        "mods": []
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "level": 0,
+                "props": {
+                  "bullet": {
+                    "kind": "char",
+                    "char": "•",
+                    "color": {
+                      "kind": "theme",
+                      "slot": "accent1",
+                      "mods": []
+                    }
+                  },
+                  "marginLeft": 24,
+                  "indent": -24,
+                  "spaceAfter": {
+                    "kind": "pt",
+                    "value": 12
+                  }
+                },
+                "inlines": [
+                  {
+                    "kind": "run",
+                    "text": "What we learned",
+                    "props": {
+                      "size": 20,
+                      "color": {
+                        "kind": "theme",
+                        "slot": "tx1",
+                        "mods": []
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "level": 0,
+                "props": {
+                  "bullet": {
+                    "kind": "char",
+                    "char": "•",
+                    "color": {
+                      "kind": "theme",
+                      "slot": "accent1",
+                      "mods": []
+                    }
+                  },
+                  "marginLeft": 24,
+                  "indent": -24,
+                  "spaceAfter": {
+                    "kind": "pt",
+                    "value": 12
+                  }
+                },
+                "inlines": [
+                  {
+                    "kind": "run",
+                    "text": "What we will do next",
+                    "props": {
+                      "size": 20,
+                      "color": {
+                        "kind": "theme",
+                        "slot": "tx1",
+                        "mods": []
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "level": 0,
+                "props": {
+                  "bullet": {
+                    "kind": "char",
+                    "char": "•",
+                    "color": {
+                      "kind": "theme",
+                      "slot": "accent1",
+                      "mods": []
+                    }
+                  },
+                  "marginLeft": 24,
+                  "indent": -24,
+                  "spaceAfter": {
+                    "kind": "pt",
+                    "value": 12
+                  }
+                },
+                "inlines": [
+                  {
+                    "kind": "run",
+                    "text": "What we need from you",
+                    "props": {
+                      "size": 20,
+                      "color": {
+                        "kind": "theme",
+                        "slot": "tx1",
+                        "mods": []
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "ag-section",
+      "origin": {
+        "kind": "agent"
+      },
+      "layout": "ag-l.section",
+      "hidden": false,
+      "showLayout": true,
+      "timeline": [],
+      "elements": [
+        {
+          "kind": "shape",
+          "id": "ag-section.heading",
+          "origin": {
+            "kind": "agent"
+          },
+          "frame": {
+            "x": 64,
+            "y": 200,
+            "w": 832,
+            "h": 80,
+            "rotation": 0,
+            "flipH": false,
+            "flipV": false
+          },
+          "geometry": {
+            "kind": "preset",
+            "name": "rect",
+            "adjust": {}
+          },
+          "fill": {
+            "kind": "none"
+          },
+          "text": {
+            "body": {
+              "anchor": "bottom",
+              "autofit": {
+                "kind": "none"
+              },
+              "wrap": "square",
+              "insets": {
+                "l": 0,
+                "r": 0,
+                "t": 0,
+                "b": 0
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "props": {},
+                "inlines": [
+                  {
+                    "kind": "run",
+                    "text": "Section title",
+                    "props": {
+                      "size": 48,
+                      "color": {
+                        "kind": "theme",
+                        "slot": "bg1",
+                        "mods": []
+                      },
+                      "weight": 700
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "kind": "shape",
+          "id": "ag-section.subtitle",
+          "origin": {
+            "kind": "agent"
+          },
+          "frame": {
+            "x": 64,
+            "y": 292,
+            "w": 832,
+            "h": 40,
+            "rotation": 0,
+            "flipH": false,
+            "flipV": false
+          },
+          "geometry": {
+            "kind": "preset",
+            "name": "rect",
+            "adjust": {}
+          },
+          "fill": {
+            "kind": "none"
+          },
+          "text": {
+            "body": {
+              "anchor": "top",
+              "autofit": {
+                "kind": "none"
+              },
+              "wrap": "square",
+              "insets": {
+                "l": 0,
+                "r": 0,
+                "t": 0,
+                "b": 0
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "props": {
+                  "spaceAfter": {
+                    "kind": "pt",
+                    "value": 10
+                  }
+                },
+                "inlines": [
+                  {
+                    "kind": "run",
+                    "text": "One line on what this part covers",
+                    "props": {
+                      "size": 20,
+                      "color": {
+                        "kind": "theme",
+                        "slot": "bg1",
+                        "mods": []
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "ag-image-text",
+      "origin": {
+        "kind": "agent"
+      },
+      "layout": "ag-l.image-text",
+      "hidden": false,
+      "showLayout": true,
+      "timeline": [],
+      "elements": [
+        {
+          "kind": "picture",
+          "id": "ag-image-text.image",
+          "origin": {
+            "kind": "agent"
+          },
+          "frame": {
+            "x": 0,
+            "y": 0,
+            "w": 420,
+            "h": 540,
+            "rotation": 0,
+            "flipH": false,
+            "flipV": false
+          },
+          "media": "eef0fe21fe5318de2b962aea091ddb6e73d1f963df5c12173001f8a65decd05f",
+          "alt": "Abstract orange tiles",
+          "crop": {
+            "l": 0.20833,
+            "r": 0.20833,
+            "t": 0,
+            "b": 0
+          }
+        },
+        {
+          "kind": "shape",
+          "id": "ag-image-text.heading",
+          "origin": {
+            "kind": "agent"
+          },
+          "frame": {
+            "x": 480,
+            "y": 80,
+            "w": 416,
+            "h": 100,
+            "rotation": 0,
+            "flipH": false,
+            "flipV": false
+          },
+          "geometry": {
+            "kind": "preset",
+            "name": "rect",
+            "adjust": {}
+          },
+          "fill": {
+            "kind": "none"
+          },
+          "text": {
+            "body": {
+              "anchor": "bottom",
+              "autofit": {
+                "kind": "none"
+              },
+              "wrap": "square",
+              "insets": {
+                "l": 0,
+                "r": 0,
+                "t": 0,
+                "b": 0
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "props": {},
+                "inlines": [
+                  {
+                    "kind": "run",
+                    "text": "An idea with a picture",
+                    "props": {
+                      "size": 32,
+                      "color": {
+                        "kind": "theme",
+                        "slot": "tx1",
+                        "mods": []
+                      },
+                      "weight": 700
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "kind": "shape",
+          "id": "ag-image-text.body",
+          "origin": {
+            "kind": "agent"
+          },
+          "frame": {
+            "x": 480,
+            "y": 196,
+            "w": 416,
+            "h": 120,
+            "rotation": 0,
+            "flipH": false,
+            "flipV": false
+          },
+          "geometry": {
+            "kind": "preset",
+            "name": "rect",
+            "adjust": {}
+          },
+          "fill": {
+            "kind": "none"
+          },
+          "text": {
+            "body": {
+              "anchor": "top",
+              "autofit": {
+                "kind": "none"
+              },
+              "wrap": "square",
+              "insets": {
+                "l": 0,
+                "r": 0,
+                "t": 0,
+                "b": 0
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "props": {
+                  "spaceAfter": {
+                    "kind": "pt",
+                    "value": 10
+                  }
+                },
+                "inlines": [
+                  {
+                    "kind": "run",
+                    "text": "Pair one image with a short explanation. Keep the text to what the image cannot say on its own.",
+                    "props": {
+                      "size": 18,
+                      "color": {
+                        "kind": "rgb",
+                        "space": "srgb",
+                        "r": 0.41961,
+                        "g": 0.41961,
+                        "b": 0.4,
+                        "a": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "kind": "shape",
+          "id": "ag-image-text.points",
+          "origin": {
+            "kind": "agent"
+          },
+          "frame": {
+            "x": 480,
+            "y": 268,
+            "w": 416,
+            "h": 160,
+            "rotation": 0,
+            "flipH": false,
+            "flipV": false
+          },
+          "geometry": {
+            "kind": "preset",
+            "name": "rect",
+            "adjust": {}
+          },
+          "fill": {
+            "kind": "none"
+          },
+          "text": {
+            "body": {
+              "anchor": "top",
+              "autofit": {
+                "kind": "none"
+              },
+              "wrap": "square",
+              "insets": {
+                "l": 0,
+                "r": 0,
+                "t": 0,
+                "b": 0
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "props": {
+                  "bullet": {
+                    "kind": "char",
+                    "char": "•",
+                    "color": {
+                      "kind": "theme",
+                      "slot": "accent1",
+                      "mods": []
+                    }
+                  },
+                  "marginLeft": 24,
+                  "indent": -24,
+                  "spaceAfter": {
+                    "kind": "pt",
+                    "value": 12
+                  }
+                },
+                "inlines": [
+                  {
+                    "kind": "run",
+                    "text": "First supporting point",
+                    "props": {
+                      "size": 18,
+                      "color": {
+                        "kind": "theme",
+                        "slot": "tx1",
+                        "mods": []
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "level": 0,
+                "props": {
+                  "bullet": {
+                    "kind": "char",
+                    "char": "•",
+                    "color": {
+                      "kind": "theme",
+                      "slot": "accent1",
+                      "mods": []
+                    }
+                  },
+                  "marginLeft": 24,
+                  "indent": -24,
+                  "spaceAfter": {
+                    "kind": "pt",
+                    "value": 12
+                  }
+                },
+                "inlines": [
+                  {
+                    "kind": "run",
+                    "text": "Second supporting point",
+                    "props": {
+                      "size": 18,
+                      "color": {
+                        "kind": "theme",
+                        "slot": "tx1",
+                        "mods": []
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "ag-numbers",
+      "origin": {
+        "kind": "agent"
+      },
+      "layout": "ag-l.content",
+      "hidden": false,
+      "showLayout": true,
+      "timeline": [],
+      "elements": [
+        {
+          "kind": "shape",
+          "id": "ag-numbers.heading",
+          "origin": {
+            "kind": "agent"
+          },
+          "frame": {
+            "x": 64,
+            "y": 80,
+            "w": 832,
+            "h": 60,
+            "rotation": 0,
+            "flipH": false,
+            "flipV": false
+          },
+          "geometry": {
+            "kind": "preset",
+            "name": "rect",
+            "adjust": {}
+          },
+          "fill": {
+            "kind": "none"
+          },
+          "text": {
+            "body": {
+              "anchor": "top",
+              "autofit": {
+                "kind": "none"
+              },
+              "wrap": "square",
+              "insets": {
+                "l": 0,
+                "r": 0,
+                "t": 0,
+                "b": 0
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "props": {},
+                "inlines": [
+                  {
+                    "kind": "run",
+                    "text": "Key numbers",
+                    "props": {
+                      "size": 36,
+                      "color": {
+                        "kind": "theme",
+                        "slot": "tx1",
+                        "mods": []
+                      },
+                      "weight": 700
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "kind": "shape",
+          "id": "ag-numbers.first.value",
+          "origin": {
+            "kind": "agent"
+          },
+          "frame": {
+            "x": 64,
+            "y": 200,
+            "w": 256,
+            "h": 80,
+            "rotation": 0,
+            "flipH": false,
+            "flipV": false
+          },
+          "geometry": {
+            "kind": "preset",
+            "name": "rect",
+            "adjust": {}
+          },
+          "fill": {
+            "kind": "none"
+          },
+          "text": {
+            "body": {
+              "anchor": "top",
+              "autofit": {
+                "kind": "none"
+              },
+              "wrap": "square",
+              "insets": {
+                "l": 0,
+                "r": 0,
+                "t": 0,
+                "b": 0
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "props": {},
+                "inlines": [
+                  {
+                    "kind": "run",
+                    "text": "42%",
+                    "props": {
+                      "size": 56,
+                      "color": {
+                        "kind": "theme",
+                        "slot": "accent1",
+                        "mods": []
+                      },
+                      "weight": 700
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "kind": "shape",
+          "id": "ag-numbers.first.label",
+          "origin": {
+            "kind": "agent"
+          },
+          "frame": {
+            "x": 64,
+            "y": 290,
+            "w": 256,
+            "h": 80,
+            "rotation": 0,
+            "flipH": false,
+            "flipV": false
+          },
+          "geometry": {
+            "kind": "preset",
+            "name": "rect",
+            "adjust": {}
+          },
+          "fill": {
+            "kind": "none"
+          },
+          "text": {
+            "body": {
+              "anchor": "top",
+              "autofit": {
+                "kind": "none"
+              },
+              "wrap": "square",
+              "insets": {
+                "l": 0,
+                "r": 0,
+                "t": 0,
+                "b": 0
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "props": {
+                  "spaceAfter": {
+                    "kind": "pt",
+                    "value": 10
+                  }
+                },
+                "inlines": [
+                  {
+                    "kind": "run",
+                    "text": "Growth in active users this quarter",
+                    "props": {
+                      "size": 18,
+                      "color": {
+                        "kind": "rgb",
+                        "space": "srgb",
+                        "r": 0.41961,
+                        "g": 0.41961,
+                        "b": 0.4,
+                        "a": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "kind": "shape",
+          "id": "ag-numbers.second.value",
+          "origin": {
+            "kind": "agent"
+          },
+          "frame": {
+            "x": 352,
+            "y": 200,
+            "w": 256,
+            "h": 80,
+            "rotation": 0,
+            "flipH": false,
+            "flipV": false
+          },
+          "geometry": {
+            "kind": "preset",
+            "name": "rect",
+            "adjust": {}
+          },
+          "fill": {
+            "kind": "none"
+          },
+          "text": {
+            "body": {
+              "anchor": "top",
+              "autofit": {
+                "kind": "none"
+              },
+              "wrap": "square",
+              "insets": {
+                "l": 0,
+                "r": 0,
+                "t": 0,
+                "b": 0
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "props": {},
+                "inlines": [
+                  {
+                    "kind": "run",
+                    "text": "3.5x",
+                    "props": {
+                      "size": 56,
+                      "color": {
+                        "kind": "theme",
+                        "slot": "accent1",
+                        "mods": []
+                      },
+                      "weight": 700
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "kind": "shape",
+          "id": "ag-numbers.second.label",
+          "origin": {
+            "kind": "agent"
+          },
+          "frame": {
+            "x": 352,
+            "y": 290,
+            "w": 256,
+            "h": 80,
+            "rotation": 0,
+            "flipH": false,
+            "flipV": false
+          },
+          "geometry": {
+            "kind": "preset",
+            "name": "rect",
+            "adjust": {}
+          },
+          "fill": {
+            "kind": "none"
+          },
+          "text": {
+            "body": {
+              "anchor": "top",
+              "autofit": {
+                "kind": "none"
+              },
+              "wrap": "square",
+              "insets": {
+                "l": 0,
+                "r": 0,
+                "t": 0,
+                "b": 0
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "props": {
+                  "spaceAfter": {
+                    "kind": "pt",
+                    "value": 10
+                  }
+                },
+                "inlines": [
+                  {
+                    "kind": "run",
+                    "text": "Faster from idea to first draft",
+                    "props": {
+                      "size": 18,
+                      "color": {
+                        "kind": "rgb",
+                        "space": "srgb",
+                        "r": 0.41961,
+                        "g": 0.41961,
+                        "b": 0.4,
+                        "a": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "kind": "shape",
+          "id": "ag-numbers.third.value",
+          "origin": {
+            "kind": "agent"
+          },
+          "frame": {
+            "x": 640,
+            "y": 200,
+            "w": 256,
+            "h": 80,
+            "rotation": 0,
+            "flipH": false,
+            "flipV": false
+          },
+          "geometry": {
+            "kind": "preset",
+            "name": "rect",
+            "adjust": {}
+          },
+          "fill": {
+            "kind": "none"
+          },
+          "text": {
+            "body": {
+              "anchor": "top",
+              "autofit": {
+                "kind": "none"
+              },
+              "wrap": "square",
+              "insets": {
+                "l": 0,
+                "r": 0,
+                "t": 0,
+                "b": 0
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "props": {},
+                "inlines": [
+                  {
+                    "kind": "run",
+                    "text": "120",
+                    "props": {
+                      "size": 56,
+                      "color": {
+                        "kind": "theme",
+                        "slot": "accent1",
+                        "mods": []
+                      },
+                      "weight": 700
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "kind": "shape",
+          "id": "ag-numbers.third.label",
+          "origin": {
+            "kind": "agent"
+          },
+          "frame": {
+            "x": 640,
+            "y": 290,
+            "w": 256,
+            "h": 80,
+            "rotation": 0,
+            "flipH": false,
+            "flipV": false
+          },
+          "geometry": {
+            "kind": "preset",
+            "name": "rect",
+            "adjust": {}
+          },
+          "fill": {
+            "kind": "none"
+          },
+          "text": {
+            "body": {
+              "anchor": "top",
+              "autofit": {
+                "kind": "none"
+              },
+              "wrap": "square",
+              "insets": {
+                "l": 0,
+                "r": 0,
+                "t": 0,
+                "b": 0
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "props": {
+                  "spaceAfter": {
+                    "kind": "pt",
+                    "value": 10
+                  }
+                },
+                "inlines": [
+                  {
+                    "kind": "run",
+                    "text": "Teams already on board",
+                    "props": {
+                      "size": 18,
+                      "color": {
+                        "kind": "rgb",
+                        "space": "srgb",
+                        "r": 0.41961,
+                        "g": 0.41961,
+                        "b": 0.4,
+                        "a": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "ag-statement",
+      "origin": {
+        "kind": "agent"
+      },
+      "layout": "ag-l.full-image",
+      "hidden": false,
+      "showLayout": true,
+      "timeline": [],
+      "elements": [
+        {
+          "kind": "picture",
+          "id": "ag-statement.image",
+          "origin": {
+            "kind": "agent"
+          },
+          "frame": {
+            "x": 0,
+            "y": 0,
+            "w": 960,
+            "h": 540,
+            "rotation": 0,
+            "flipH": false,
+            "flipV": false
+          },
+          "media": "3508ff0b819abb67965dbd26152e86de18dda722a4fa1c34f2dc558df2ff36f7",
+          "alt": "Abstract teal waves",
+          "crop": {
+            "l": 0,
+            "r": 0,
+            "t": 0,
+            "b": 0
+          }
+        },
+        {
+          "kind": "shape",
+          "id": "ag-statement.quote",
+          "origin": {
+            "kind": "agent"
+          },
+          "frame": {
+            "x": 64,
+            "y": 150,
+            "w": 832,
+            "h": 240,
+            "rotation": 0,
+            "flipH": false,
+            "flipV": false
+          },
+          "geometry": {
+            "kind": "preset",
+            "name": "rect",
+            "adjust": {}
+          },
+          "fill": {
+            "kind": "none"
+          },
+          "text": {
+            "body": {
+              "anchor": "middle",
+              "autofit": {
+                "kind": "none"
+              },
+              "wrap": "square",
+              "insets": {
+                "l": 0,
+                "r": 0,
+                "t": 0,
+                "b": 0
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "props": {
+                  "align": "center"
+                },
+                "inlines": [
+                  {
+                    "kind": "run",
+                    "text": "“A single bold statement, set large over an image.”",
+                    "props": {
+                      "size": 40,
+                      "color": {
+                        "kind": "theme",
+                        "slot": "bg1",
+                        "mods": []
+                      },
+                      "weight": 700
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "ag-closing",
+      "origin": {
+        "kind": "agent"
+      },
+      "layout": "ag-l.closing",
+      "hidden": false,
+      "showLayout": true,
+      "timeline": [],
+      "elements": [
+        {
+          "kind": "shape",
+          "id": "ag-closing.heading",
+          "origin": {
+            "kind": "agent"
+          },
+          "frame": {
+            "x": 64,
+            "y": 200,
+            "w": 832,
+            "h": 80,
+            "rotation": 0,
+            "flipH": false,
+            "flipV": false
+          },
+          "geometry": {
+            "kind": "preset",
+            "name": "rect",
+            "adjust": {}
+          },
+          "fill": {
+            "kind": "none"
+          },
+          "text": {
+            "body": {
+              "anchor": "bottom",
+              "autofit": {
+                "kind": "none"
+              },
+              "wrap": "square",
+              "insets": {
+                "l": 0,
+                "r": 0,
+                "t": 0,
+                "b": 0
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "props": {},
+                "inlines": [
+                  {
+                    "kind": "run",
+                    "text": "Thank you",
+                    "props": {
+                      "size": 54,
+                      "color": {
+                        "kind": "theme",
+                        "slot": "bg1",
+                        "mods": []
+                      },
+                      "weight": 700
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "kind": "shape",
+          "id": "ag-closing.contact",
+          "origin": {
+            "kind": "agent"
+          },
+          "frame": {
+            "x": 64,
+            "y": 292,
+            "w": 832,
+            "h": 40,
+            "rotation": 0,
+            "flipH": false,
+            "flipV": false
+          },
+          "geometry": {
+            "kind": "preset",
+            "name": "rect",
+            "adjust": {}
+          },
+          "fill": {
+            "kind": "none"
+          },
+          "text": {
+            "body": {
+              "anchor": "top",
+              "autofit": {
+                "kind": "none"
+              },
+              "wrap": "square",
+              "insets": {
+                "l": 0,
+                "r": 0,
+                "t": 0,
+                "b": 0
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "props": {
+                  "spaceAfter": {
+                    "kind": "pt",
+                    "value": 10
+                  }
+                },
+                "inlines": [
+                  {
+                    "kind": "run",
+                    "text": "name@example.com",
+                    "props": {
+                      "size": 20,
+                      "color": {
+                        "kind": "theme",
+                        "slot": "bg1",
+                        "mods": []
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "media": {
+    "0704e9d5996a9e798e234f2aa239ff7d61b25171f7aaf9cb4b2855bed49e263b": {
+      "sha256": "0704e9d5996a9e798e234f2aa239ff7d61b25171f7aaf9cb4b2855bed49e263b",
+      "type": "image/webp",
+      "bytes": 9352,
+      "width": 1600,
+      "height": 900,
+      "origin": {
+        "kind": "agent"
+      }
+    },
+    "eef0fe21fe5318de2b962aea091ddb6e73d1f963df5c12173001f8a65decd05f": {
+      "sha256": "eef0fe21fe5318de2b962aea091ddb6e73d1f963df5c12173001f8a65decd05f",
+      "type": "image/webp",
+      "bytes": 12712,
+      "width": 1200,
+      "height": 900,
+      "origin": {
+        "kind": "agent"
+      }
+    },
+    "3508ff0b819abb67965dbd26152e86de18dda722a4fa1c34f2dc558df2ff36f7": {
+      "sha256": "3508ff0b819abb67965dbd26152e86de18dda722a4fa1c34f2dc558df2ff36f7",
+      "type": "image/webp",
+      "bytes": 38808,
+      "width": 1600,
+      "height": 900,
+      "origin": {
+        "kind": "agent"
+      }
+    }
+  }
+}
